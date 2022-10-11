@@ -6,16 +6,12 @@ h1 {
 
 body {
   background-color: #00008B;
-  background-repeat: no-repeat;
-  background-size: cover;
   text-align:center
 }
 
 table {
   border: 2px solid #FFFFFF;
   text-align:center;
-  margin-left:auto;
-  margin-right:auto;
 }
 
 img {
