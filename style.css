@@ -1,17 +1,20 @@
 h1 {
-  color: #7FFD4;
+  color: #7FFFD4;
   font-size: 80px;
-  text-align: center
+  font-family:calibri;
+  text-align: center;
 }
 
 body {
   background-color: #00008B;
-  text-align:center
+  text-align:center;
 }
 
-table {
-  border: 2px solid #FFFFFF;
-  text-align:center;
+td {
+  text-align: center;
+  table-layout: fixed;
+  height: 50px;
+  border-radius: 5px;
 }
 
 img {
