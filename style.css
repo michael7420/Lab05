@@ -1,6 +1,6 @@
 h1 {
   color: #7FFFD4;
-  font-size: 80px;
+  font-size: 70px;
   font-family:calibri;
   text-align: center;
 }
@@ -14,7 +14,7 @@ td {
   text-align: center;
   table-layout: fixed;
   height: 50px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 img {
